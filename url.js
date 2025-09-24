@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/18KH2vk4FWGbJ5Hf6yX1mqpIv4mHBkIljOkXmPLOIDuU/edit',
-	'https://docs.google.com/forms/d/1QiV4r2_TdFpEMi5AIxBEVec09zeXReQWkaqTWEEUzZA/edit',
-	'https://docs.google.com/forms/d/1qZMxQVTpPH44fWnDpQBQ-1h7hlBh5ELEq3bMThrwiEo/edit'
+	'https://docs.google.com/forms/d/e/1FAIpQLSczaeMm3pJRfVYps9FFMycLws6eb9NmlirxPPRxP8bkEDr_cQ/viewform?usp=dialog',
+	'https://docs.google.com/forms/d/e/1FAIpQLScs5Hfoo3ZNA3XAnbeTMfq3siVDrej5k9aZBD_KR-h8-WVmMA/viewform?usp=dialog',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfdZHAz_Gp3r1l9bSI64FnqeyWvQVow-tT1wfEfBDQoNuabLQ/viewform?usp=dialog'
 ];
